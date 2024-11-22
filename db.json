@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "84f1",
+      "name": "new name update",
+      "price": "1000",
+      "description": "desc 3"
+    },
+    {
+      "id": "fedc",
+      "name": "new product",
+      "price": "100000",
+      "description": "new description"
+    }
+  ]
+}
